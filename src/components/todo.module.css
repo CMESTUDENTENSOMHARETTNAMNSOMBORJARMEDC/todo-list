@@ -1,0 +1,23 @@
+.button {
+  margin-left: auto;
+}
+.todoContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: 100%;
+  gap: 10px;
+  margin-top: 0.5em;
+}
+.todoText {
+  text-decoration-line: none;
+}
+.completedTodoText {
+  text-decoration-line: line-through;
+}
+.textBox {
+  margin: 0;
+  max-width: 70%;
+  text-align: left;
+  overflow-wrap: break-word;
+}

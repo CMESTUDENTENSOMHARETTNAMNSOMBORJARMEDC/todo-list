@@ -1,0 +1,11 @@
+.todoBuilderContainer {
+	width: 100%;
+	display: flex;
+}
+.textBox {
+	width: 100%;
+}
+.button {
+	margin-left: auto;
+}
+
