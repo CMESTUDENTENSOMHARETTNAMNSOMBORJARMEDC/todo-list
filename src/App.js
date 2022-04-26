@@ -29,6 +29,7 @@ function App() {
 
     return (
         <div className="App">
+        	<b>y0000</b>
 	        <TodoBuilder todoAdder={makeTodoAdder(todos)} />
     	    <TodoList todoList={todos} todoRemover={makeTodoRemover(todos)} />
         </div>
